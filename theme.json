@@ -1,0 +1,9 @@
+{
+    "version" : 2,
+    "settings": {
+        "layout": {
+            "contentSize": "860px",
+            "wideSize": "1100px"
+        }
+    }
+}
